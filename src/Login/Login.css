@@ -1,0 +1,76 @@
+
+body{
+ 
+  padding: 0px;
+  margin: 0px;
+}
+
+.formlogin {
+  margin: auto; 
+  width: 520px;
+  position: relative;
+  left: 20%;
+  top: 35%;
+}
+
+.imagenlogo{
+  display: block;
+  margin: 0px auto;
+  margin-top: 23%;
+}
+
+
+label {
+	font-weight:bold;
+  width: 10px;
+	display: block; 
+  padding: 2px;
+  font : .8em "typewriter", sans-serif;
+  margin-top: 5px;
+ 
+}
+
+.formlogin .textos{
+  padding: 10px; 
+  border: 1px solid;
+  border-color: #acacac;
+  border-radius: 20px;
+  width: 205px;
+}
+
+.formlogin .boton{
+  padding: 10px; 
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  background-color:#0f58a5;
+  border: 0px solid;
+  border-radius: 20px;
+  width: 226px;
+}
+
+.titulo{
+  
+  font :.8em "typewriter", sans-serif;
+  font-size: 25px;
+  text-align: center;
+  position: relative;
+  font-weight:bold;
+  left: 0%;
+  top: 34%;
+}
+
+.parteuno{
+  width: 50%;
+  height: 100vh;
+  
+  float: left;
+  
+}
+
+.partedos{
+  width: 50%;
+  height: 100vh;
+  background-color: #f8f9fd;
+  float:right;
+}
